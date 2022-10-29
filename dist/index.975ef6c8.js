@@ -565,6 +565,6 @@ rocketsContainer.addEventListener("click", async (event)=>{
     `;
 });
 
-},{}]},["glGcU","8lqZg"], "8lqZg", "parcelRequire7d36")
+},{}]},["glGcU","8lqZg"], "8lqZg", "parcelRequiref1cf")
 
 //# sourceMappingURL=index.975ef6c8.js.map

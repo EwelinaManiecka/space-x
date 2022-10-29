@@ -1,14 +1,14 @@
 {
-  "name": "country-search-new",
+  "name": "space-x",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://EwelinaManiecka.github/spaceX",
+  "homepage": "https://EwelinaManiecka.github/space-x",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /spaceX/"
+    "build": "parcel build src/*.html --public-url /space-x/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ewelinamaniecka/spaceX.git"
+    "url": "git+https://github.com/ewelinamaniecka/space-x.git"
   }
 }
