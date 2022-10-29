@@ -555,7 +555,7 @@ fetchRockets().then((rockets)=>{
 rocketsContainer.addEventListener("click", async (event)=>{
     const rocketId = event.target.dataset.rocketId;
     const rocket = await fetchSingleRocket(rocketId);
-    rocketImages = rocket.flickr_images.map((image)=>{
+    const rocketImages = rocket.flickr_images.map((image)=>{
         return `<img src="${image}" />`;
     }).join("");
     rocketDetailsContainer.innerHTML = `
